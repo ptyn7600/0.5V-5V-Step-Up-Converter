@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Add Component: Footprint Not Found CAP_107SML016M_CND
+Add Component: Footprint Not Found DPAK-4_6P22X6P73_ONS
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Added Net: Name=NetU1_4
+Add Class Member: Failed to add class member : Component C1 107SML016M
+Add Class Member: Failed to add class member : Component U1 NJVMJD41CT4G

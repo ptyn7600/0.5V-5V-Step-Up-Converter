@@ -1,0 +1,10 @@
+Added Component: Designator=U1(DPAK-4_6P22X6P73_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NJVMJD41CT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Member To Class: ClassName=Low-Voltage-5V-Step-Up-Converter Member=Component U1 NJVMJD41CT4G

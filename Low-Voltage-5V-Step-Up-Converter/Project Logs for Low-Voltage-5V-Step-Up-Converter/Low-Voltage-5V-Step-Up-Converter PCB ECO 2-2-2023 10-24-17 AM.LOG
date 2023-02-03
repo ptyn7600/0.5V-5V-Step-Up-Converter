@@ -1,0 +1,10 @@
+Add Component: Footprint Not Found CAP_107SML016M_CND
+Add Component: Footprint Not Found DPAK-4_6P22X6P73_ONS
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Class Member: Failed to add class member : Component C1 107SML016M
+Added Member To Class: ClassName=Low-Voltage-5V-Step-Up-Converter Member=Component R3 RNCP0805FTD10R0
+Add Class Member: Failed to add class member : Component U1 NJVMJD41CT4G
